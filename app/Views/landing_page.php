@@ -330,7 +330,15 @@
             .home-content .text-3 {
                 font-size: 20px;
             }
-        }
+
+            }
+
+            .home-content .text-4 {
+                font-size: 30px;
+                
+            }
+            
+        
     </style>
 </head>
 
@@ -358,6 +366,8 @@
                 <div class="text-1">Selamat Datang di</div>
                 <div class="text-2">Laporan Kampusku</div>
                 <div class="text-3">Platform untuk <span class="typing"></span></div>
+                <div class="text-4">Web terbaik didunia</div>
+               
 
                 <a href="/register">Mulai Sekarang damar edit</a>
 
