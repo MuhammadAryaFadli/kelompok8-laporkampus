@@ -358,7 +358,10 @@
                 <div class="text-1">Selamat Datang di</div>
                 <div class="text-2">Laporan Kampusku</div>
                 <div class="text-3">Platform untuk <span class="typing"></span></div>
+
                 <a href="/register">Mulai Sekarang damar edit</a>
+
+
             </div>
         </div>
     </section>
