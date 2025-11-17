@@ -358,7 +358,11 @@
                 <div class="text-1">Selamat Datang di</div>
                 <div class="text-2">Laporan Kampusku</div>
                 <div class="text-3">Platform untuk <span class="typing"></span></div>
+<<<<<<< HEAD
                 <a href="/register">Mulai Sekarang bersama arya</a>
+=======
+                <a href="/register">Mulai Sekarang ZAKKYA MODIFIKASI</a>
+>>>>>>> 81004da550df9702aa4d0bd5aa7696d1ac39830a
             </div>
         </div>
     </section>
