@@ -373,6 +373,13 @@
         </div>
     </section>
 
+
+    <section>
+        <div class="text-3">
+            <h1>Menambah Section baru Zakkya untuk Skema 2</h1>
+        </div>
+    </section>
+
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
     <script>
