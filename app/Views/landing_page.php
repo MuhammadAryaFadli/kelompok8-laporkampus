@@ -330,7 +330,15 @@
             .home-content .text-3 {
                 font-size: 20px;
             }
-        }
+
+            }
+
+            .home-content .text-4 {
+                font-size: 30px;
+                
+            }
+            
+        
     </style>
 </head>
 
@@ -344,6 +352,7 @@
             <ul class="menu">
                 <li><a href="/login" class="login-btn">Masuk</a></li>
                 <li><a href="/register" class="login-btn">Daftar</a></li>
+                <li><a href="/ordal" class="login-btn">Orang Dalam</a></li>
             </ul>
             <div class="menu-btn">
                 <i class="fas fa-bars"></i>
@@ -358,7 +367,8 @@
                 <div class="text-1">Selamat Datang di</div>
                 <div class="text-2">Laporan Kampusku</div>
                 <div class="text-3">Platform untuk <span class="typing"></span></div>
-                <a href="/register">Mulai Sekarang bersama arya</a>
+                <div class="text-4">Web terbaik didunia</div>
+                <a href="/register">Mulai Sekarang damar edit</a>
             </div>
         </div>
     </section>
